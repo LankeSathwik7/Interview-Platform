@@ -1,4 +1,4 @@
-# PrepWise: AI-Powered Job Interview Preparation Platform
+# 🎤💼 PrepWise: AI-Powered Job Interview Preparation Platform 📊
 
 A job interview preparation platform powered by Vapi AI Voice agents. This project allows users to practice interview scenarios with AI-driven voice assistants and receive instant feedback based on their conversations.
 
